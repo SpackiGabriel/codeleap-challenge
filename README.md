@@ -121,6 +121,3 @@ Output
 ```json
 {}
 ```
-
-
-This API was developed to solve a coding challenge suggested by CodeLeap. It simulates a CRUD of posts inside a social network

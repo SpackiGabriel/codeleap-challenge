@@ -83,7 +83,7 @@ PATCH http://localhost:8000/careers/${id}/
 
 | Parameter | Type     | Description                                            |
 | :-------- | :------- | :------------------------------------------------------|
-| `id`      | `string` | **Mandatory**. The ID of the post that you're updating |
+| `id`      | `integer` | **Mandatory**. The ID of the post that you're updating |
 
 Input
 
@@ -114,7 +114,7 @@ DELETE http://localhost:8000/careers/${id}/
 
 | Parameter | Type     | Description                                            |
 | :-------- | :------- | :------------------------------------------------------|
-| `id`      | `string` | **Mandatory**. The ID of the post that you're updating |
+| `id`      | `integer` | **Mandatory**. The ID of the post that you're updating |
 
 Output
 
